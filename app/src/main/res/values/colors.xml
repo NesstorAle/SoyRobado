@@ -14,5 +14,7 @@
     <color name="d">#F28705</color>
     <color name="e">#F2C288</color>
     <color name="fdffsd">#157EBF</color>
+    <color name="text_gray">#686868</color>
+    <color name="text_color">#1C1919</color>
 
 </resources>

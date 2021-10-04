@@ -9,4 +9,8 @@
         android:id="@+id/navigation_my_devices"
         android:icon="@drawable/ic_baseline_format_list_numbered_rtl_24"
         android:title="My Devices"/>
+    <item
+        android:id="@+id/navigation_my_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="My Profile"/>
 </menu>

@@ -15,4 +15,7 @@
     <dimen name="dimen_14">14dp</dimen>
     <dimen name="dimen_16">16dp</dimen>
     <dimen name="dimen_18">18dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
 </resources>

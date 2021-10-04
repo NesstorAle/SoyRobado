@@ -24,4 +24,12 @@
     <action
         android:id="@+id/action_global_myDevicesFragment"
         app:destination="@id/myDevicesFragment" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.soyrobado.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <action
+        android:id="@+id/action_global_loginFragment"
+        app:destination="@id/loginFragment" />
 </navigation>

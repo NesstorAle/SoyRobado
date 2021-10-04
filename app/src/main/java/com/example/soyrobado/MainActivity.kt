@@ -40,6 +40,9 @@ class MainActivity : AppCompatActivity(), NavigationBarView.OnItemSelectedListen
                 R.id.navigation_home -> {
                     controller.navigate(R.id.action_global_homeFragment)
                 }
+                R.id.navigation_my_profile -> {
+                    controller.navigate(R.id.action_global_loginFragment)
+                }
             }
         }
 
